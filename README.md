@@ -1,6 +1,8 @@
 # app_cineverse
 
-A new Flutter project.
+Du an cua Sy
+
+![Mo ta hinh anh](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkzNjR0Nmp3ZXZyZnF4aGZmcHB5cDV6ZDM2b2pwZ2Z3aTVvYnd1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xoHntNXFYkfzGAftEv/giphy.gif)
 
 ## Getting Started
 
