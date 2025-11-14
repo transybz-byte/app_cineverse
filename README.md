@@ -1,8 +1,9 @@
 # app_cineverse
-
-Du an cua Sy
-
-![Mo ta hinh anh](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkzNjR0Nmp3ZXZyZnF4aGZmcHB5cDV6ZDM2b2pwZ2Z3aTVvYnd1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xoHntNXFYkfzGAftEv/giphy.gif)
+Tuần 2 (07/11 – 14/11)
+Nội dung công việc
+- Hoàn thiện thiết kế UI tổng thể trong Figma hoặc FlutterFlow (trang chủ, thể loại, chi tiết phim, hồ sơ người dùng). 
+- Tạo project Flutter, cấu trúc thư mục (model, service, view, widget). 
+- Chuẩn bị dữ liệu mẫu (mock data) để test giao diện.
 
 ## Getting Started
 
