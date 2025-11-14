@@ -1,5 +1,5 @@
 # app_cineverse
-
+Tuần 2 (07/11 – 14/11)
 Nội dung công việc
 - Hoàn thiện thiết kế UI tổng thể trong Figma hoặc FlutterFlow (trang chủ, thể loại, chi tiết phim, hồ sơ người dùng). 
 - Tạo project Flutter, cấu trúc thư mục (model, service, view, widget). 
